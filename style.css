@@ -40,9 +40,17 @@
 	padding-top: 12px;
 }
 
+.headline2 {
+	font-family:Times New Roman, serif;
+	font-size: 75%;
+	color: grey;
+	text-align: center;
+}
 
 .newspaperpic {
 	float: left;
+	padding-right: 10%;
+	padding-left: 10%;
 }
 
 .byline3 {
@@ -52,9 +60,9 @@
 }
 
 .data {
+	color: black;
 	float: right;
-	margin-left: 20px;
-	margin-bottom: 20px;
+	font-size: 75%
 }
 
 .body1 {
