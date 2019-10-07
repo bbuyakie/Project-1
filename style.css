@@ -1,0 +1,67 @@
+.headtext1 {
+	text-align: center;
+	font-family: Didot, serif;
+	font-size: 200%;
+	border-bottom-style: double;
+}
+
+.headline1 {
+	text-align: left;
+	font-family: Times New Roman, serif	;
+	font-size: 170%;
+	padding-left: 260px;
+	padding-right: 265px;
+}
+
+.subhead1 {
+	font-family: URW Palladio L, serif;
+	color: #464646;;
+	font-size: 47%;
+}
+
+.caption {
+	font-family: Roboto,sans-serif;
+	color: grey;
+	font-size:60%;
+}
+
+.byline2 {
+	font-family: Roboto,sans-serif;
+	color: #BFBEBE;
+	font-size:57%;
+}
+
+.byline1 {
+	font-family: Roboto,sans-serif;
+	font-weight: 100;
+	color: black;
+	font-size: 42%;
+	font-style: italic;
+	padding-top: 12px;
+}
+
+
+.newspaperpic {
+	float: left;
+}
+
+.byline3 {
+	font-family: Roboto,sans-serif;
+	color: #BFBEBE;
+	font-size:10%;
+}
+
+.data {
+	float: right;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.body1 {
+	border-top-style: dotted;
+	border-top-color: lightgrey;
+	padding-top: 20px;
+	font-family: Times New Roman;
+	font-size: 85%;
+	color: #212121;
+}
