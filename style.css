@@ -40,29 +40,54 @@
 	padding-top: 12px;
 }
 
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px;
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 70%;
+}
+
+.row:after {
+  display: table;
+  clear: both;
+}
+
 .headline2 {
 	font-family:Times New Roman, serif;
 	font-size: 75%;
 	color: grey;
 	text-align: center;
+	border-top-style: solid; border-top-width: 1px;
 }
 
 .newspaperpic {
-	float: left;
-	padding-right: 10%;
-	padding-left: 10%;
 }
 
 .byline3 {
 	font-family: Roboto,sans-serif;
 	color: #BFBEBE;
 	font-size:10%;
+	text-align: center;
+}
+
+.byline4 {
+	font-family: Roboto,sans-serif;
+	color: #BFBEBE;
+	font-size:10%;
+	text-align: right;
 }
 
 .data {
 	color: black;
-	float: right;
-	font-size: 75%
+	font-size: 75%;
+	overflow: inline;
 }
 
 .body1 {
